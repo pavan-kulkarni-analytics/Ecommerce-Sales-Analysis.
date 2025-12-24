@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Product_ID,Product_Name,Category,Subcategory,Quantity,Price,Total_Sale,Payment_Method,City
+ORD1000,2025-12-17,CUST119,Customer_38,PROD2,Product_20,Apparel,Subcat3,1,1424.74,1424.74,Debit Card,Delhi
+ORD1001,2025-07-04,CUST121,Customer_61,PROD9,Product_22,Books,Subcat1,1,931.26,931.26,Credit Card,Bangalore
+ORD1002,2025-04-08,CUST130,Customer_38,PROD46,Product_3,Electronics,Subcat3,3,760.27,2280.81,Debit Card,Bangalore
+ORD1003,2025-08-15,CUST165,Customer_78,PROD24,Product_20,Beauty,Subcat2,1,1442.04,1442.04,Net Banking,Pune
+ORD1004,2025-04-09,CUST137,Customer_46,PROD9,Product_17,Home & Kitchen,Subcat2,1,1291.64,1291.64,COD,Pune
+ORD1005,2025-12-07,CUST166,Customer_15,PROD45,Product_29,Apparel,Subcat2,4,293.7,1174.8,Credit Card,Mumbai
+ORD1006,2025-12-08,CUST200,Customer_36,PROD16,Product_47,Beauty,Subcat3,2,845.7,1691.4,Debit Card,Pune
+ORD1007,2025-01-04,CUST190,Customer_26,PROD18,Product_1,Apparel,Subcat2,1,144.28,144.28,Debit Card,Hyderabad
+ORD1008,2025-05-01,CUST133,Customer_82,PROD37,Product_29,Home & Kitchen,Subcat2,2,348.29,696.58,Credit Card,Hyderabad
+ORD1009,2025-11-04,CUST110,Customer_87,PROD26,Product_31,Electronics,Subcat2,5,1008.35,5041.75,UPI,Mumbai
+ORD1010,2025-07-28,CUST163,Customer_69,PROD27,Product_36,Apparel,Subcat2,2,610.1,1220.2,UPI,Hyderabad
+ORD1011,2025-11-29,CUST137,Customer_72,PROD4,Product_31,Home & Kitchen,Subcat2,2,1386.25,2772.5,Debit Card,Mumbai
+ORD1012,2025-07-11,CUST141,Customer_2,PROD5,Product_14,Beauty,Subcat3,4,736.62,2946.48,Debit Card,Pune
+ORD1013,2025-12-30,CUST197,Customer_81,PROD40,Product_49,Home & Kitchen,Subcat3,4,1043.38,4173.52,Credit Card,Hyderabad
+ORD1014,2025-04-20,CUST124,Customer_41,PROD43,Product_24,Books,Subcat3,2,584.77,1169.54,Net Banking,Mumbai
+ORD1015,2025-07-26,CUST180,Customer_78,PROD2,Product_7,Books,Subcat1,5,552.62,2763.1,Net Banking,Bangalore
+ORD1016,2025-12-13,CUST200,Customer_19,PROD25,Product_8,Electronics,Subcat2,2,904.54,1809.08,Net Banking,Delhi
+ORD1017,2025-02-04,CUST167,Customer_70,PROD9,Product_15,Electronics,Subcat2,5,1419.59,7097.95,Net Banking,Pune
+ORD1018,2025-10-28,CUST128,Customer_51,PROD21,Product_7,Books,Subcat1,2,272.19,544.38,Credit Card,Mumbai
+ORD1019,2025-12-25,CUST157,Customer_50,PROD27,Product_5,Apparel,Subcat3,2,1685.57,3371.14,UPI,Bangalore
+ORD1020,2025-01-13,CUST173,Customer_92,PROD33,Product_9,Electronics,Subcat2,3,1198.56,3595.68,Net Banking,Delhi
+ORD1021,2025-11-01,CUST167,Customer_19,PROD30,Product_16,Apparel,Subcat3,1,575.47,575.47,Net Banking,Bangalore
+ORD1022,2025-09-03,CUST163,Customer_17,PROD37,Product_45,Books,Subcat1,4,1581.85,6327.4,UPI,Delhi
+ORD1023,2025-08-09,CUST158,Customer_88,PROD47,Product_3,Beauty,Subcat1,4,1412.42,5649.68,UPI,Mumbai
+ORD1024,2025-12-26,CUST110,Customer_17,PROD22,Product_9,Electronics,Subcat3,5,774.15,3870.75,Credit Card,Delhi
+ORD1025,2025-12-22,CUST113,Customer_56,PROD42,Product_11,Beauty,Subcat3,3,1426.68,4280.04,Net Banking,Bangalore
+ORD1026,2025-05-29,CUST188,Customer_19,PROD46,Product_32,Books,Subcat2,5,817.43,4087.15,Credit Card,Bangalore
+ORD1027,2025-02-01,CUST195,Customer_24,PROD13,Product_30,Electronics,Subcat1,2,1577.62,3155.24,UPI,Bangalore
+ORD1028,2025-09-28,CUST181,Customer_95,PROD6,Product_35,Home & Kitchen,Subcat1,4,140.64,562.56,COD,Bangalore
+ORD1029,2025-10-22,CUST117,Customer_36,PROD46,Product_8,Apparel,Subcat2,4,1116.15,4464.6,Credit Card,Mumbai
+ORD1030,2025-09-29,CUST135,Customer_36,PROD49,Product_2,Books,Subcat1,5,1839.19,9195.95,Debit Card,Delhi
+ORD1031,2025-06-03,CUST155,Customer_30,PROD4,Product_21,Home & Kitchen,Subcat2,4,1833.78,7335.12,Debit Card,Pune
+ORD1032,2025-07-26,CUST163,Customer_38,PROD25,Product_25,Electronics,Subcat3,2,1057.32,2114.64,UPI,Delhi
+ORD1033,2025-05-12,CUST154,Customer_29,PROD25,Product_30,Home & Kitchen,Subcat2,1,1866.51,1866.51,UPI,Pune
+ORD1034,2025-09-15,CUST112,Customer_79,PROD45,Product_7,Apparel,Subcat2,4,446.53,1786.12,Credit Card,Delhi
+ORD1035,2025-04-30,CUST140,Customer_21,PROD31,Product_41,Home & Kitchen,Subcat3,2,1024.0,2048.0,Net Banking,Delhi
+ORD1036,2025-02-24,CUST136,Customer_98,PROD35,Product_36,Electronics,Subcat2,4,1497.84,5991.36,COD,Mumbai
+ORD1037,2025-03-06,CUST113,Customer_55,PROD30,Product_35,Apparel,Subcat3,2,492.72,985.44,UPI,Mumbai
+ORD1038,2025-06-13,CUST175,Customer_82,PROD27,Product_24,Books,Subcat3,2,1542.53,3085.06,COD,Pune
+ORD1039,2025-05-19,CUST166,Customer_45,PROD36,Product_40,Beauty,Subcat2,1,1263.01,1263.01,UPI,Bangalore
+ORD1040,2025-10-29,CUST114,Customer_43,PROD9,Product_27,Electronics,Subcat2,5,598.42,2992.1,Net Banking,Delhi
+ORD1041,2025-09-07,CUST172,Customer_81,PROD14,Product_37,Electronics,Subcat3,2,1794.6,3589.2,UPI,Pune
+ORD1042,2025-11-19,CUST195,Customer_56,PROD10,Product_4,Beauty,Subcat1,2,587.07,1174.14,COD,Bangalore
+ORD1043,2025-04-21,CUST169,Customer_12,PROD38,Product_49,Apparel,Subcat3,1,1354.09,1354.09,UPI,Mumbai
+ORD1044,2025-04-15,CUST115,Customer_38,PROD16,Product_31,Home & Kitchen,Subcat1,4,1720.58,6882.32,Net Banking,Delhi
+ORD1045,2025-06-23,CUST152,Customer_88,PROD40,Product_42,Home & Kitchen,Subcat2,5,492.75,2463.75,Credit Card,Mumbai
+ORD1046,2025-07-08,CUST118,Customer_97,PROD48,Product_44,Electronics,Subcat3,2,130.23,260.46,Net Banking,Pune
+ORD1047,2025-02-24,CUST165,Customer_8,PROD41,Product_6,Beauty,Subcat3,5,1716.1,8580.5,UPI,Hyderabad
+ORD1048,2025-06-11,CUST196,Customer_50,PROD12,Product_36,Home & Kitchen,Subcat1,4,1016.56,4066.24,Net Banking,Hyderabad
+ORD1049,2025-05-23,CUST114,Customer_65,PROD41,Product_49,Electronics,Subcat2,1,210.22,210.22,Debit Card,Delhi
+ORD1050,2025-05-22,CUST143,Customer_56,PROD22,Product_8,Apparel,Subcat1,2,103.42,206.84,UPI,Hyderabad
+ORD1051,2025-07-28,CUST114,Customer_58,PROD16,Product_15,Beauty,Subcat2,5,223.09,1115.45,Debit Card,Delhi
+ORD1052,2025-09-02,CUST175,Customer_46,PROD50,Product_47,Beauty,Subcat3,3,1414.58,4243.74,UPI,Pune
+ORD1053,2025-01-21,CUST165,Customer_11,PROD23,Product_46,Books,Subcat3,3,364.85,1094.55,Credit Card,Hyderabad
+ORD1054,2025-12-14,CUST100,Customer_81,PROD20,Product_32,Electronics,Subcat1,5,323.21,1616.05,COD,Pune
+ORD1055,2025-07-17,CUST107,Customer_52,PROD38,Product_48,Books,Subcat1,2,1711.03,3422.06,COD,Bangalore
+ORD1056,2025-04-08,CUST143,Customer_29,PROD11,Product_29,Books,Subcat1,3,1694.11,5082.33,COD,Bangalore
+ORD1057,2025-03-13,CUST182,Customer_72,PROD25,Product_18,Beauty,Subcat1,1,1085.93,1085.93,Credit Card,Delhi
+ORD1058,2025-01-31,CUST158,Customer_14,PROD21,Product_39,Electronics,Subcat1,5,1059.35,5296.75,Credit Card,Mumbai
+ORD1059,2025-01-06,CUST161,Customer_58,PROD21,Product_20,Beauty,Subcat1,4,379.57,1518.28,Net Banking,Delhi
+ORD1060,2025-11-08,CUST181,Customer_97,PROD3,Product_6,Apparel,Subcat3,1,433.68,433.68,UPI,Mumbai
+ORD1061,2025-11-12,CUST143,Customer_29,PROD38,Product_28,Home & Kitchen,Subcat3,2,696.2,1392.4,Debit Card,Bangalore
+ORD1062,2025-02-17,CUST117,Customer_72,PROD28,Product_11,Electronics,Subcat2,5,223.91,1119.55,Debit Card,Bangalore
+ORD1063,2025-10-12,CUST158,Customer_17,PROD47,Product_48,Home & Kitchen,Subcat2,2,862.43,1724.86,UPI,Delhi
+ORD1064,2025-03-27,CUST172,Customer_75,PROD11,Product_7,Books,Subcat3,4,162.53,650.12,Debit Card,Mumbai
+ORD1065,2025-06-12,CUST104,Customer_5,PROD45,Product_16,Home & Kitchen,Subcat2,2,1108.35,2216.7,UPI,Pune
+ORD1066,2025-11-17,CUST187,Customer_91,PROD49,Product_2,Apparel,Subcat1,2,1043.3,2086.6,Credit Card,Mumbai
+ORD1067,2025-09-19,CUST105,Customer_96,PROD28,Product_46,Home & Kitchen,Subcat3,3,1529.16,4587.48,Debit Card,Pune
+ORD1068,2025-11-18,CUST168,Customer_54,PROD44,Product_30,Electronics,Subcat2,4,530.28,2121.12,Debit Card,Delhi
+ORD1069,2025-10-18,CUST171,Customer_2,PROD20,Product_27,Electronics,Subcat3,3,804.14,2412.42,Debit Card,Pune
+ORD1070,2025-02-18,CUST145,Customer_56,PROD29,Product_8,Electronics,Subcat2,2,1848.04,3696.08,Net Banking,Mumbai
+ORD1071,2025-09-07,CUST123,Customer_52,PROD3,Product_34,Electronics,Subcat1,5,954.32,4771.6,Debit Card,Hyderabad
+ORD1072,2025-12-15,CUST112,Customer_9,PROD45,Product_13,Home & Kitchen,Subcat1,4,762.97,3051.88,Net Banking,Pune
+ORD1073,2025-11-07,CUST198,Customer_71,PROD25,Product_35,Electronics,Subcat1,3,337.83,1013.49,COD,Hyderabad
+ORD1074,2025-07-20,CUST193,Customer_1,PROD46,Product_6,Home & Kitchen,Subcat1,1,1300.45,1300.45,Credit Card,Pune
+ORD1075,2025-10-12,CUST119,Customer_16,PROD47,Product_32,Apparel,Subcat1,2,393.24,786.48,Debit Card,Bangalore
+ORD1076,2025-10-11,CUST152,Customer_10,PROD23,Product_7,Home & Kitchen,Subcat2,5,1623.27,8116.35,Credit Card,Pune
+ORD1077,2025-08-20,CUST136,Customer_17,PROD2,Product_25,Electronics,Subcat2,3,314.15,942.45,Net Banking,Delhi
+ORD1078,2025-03-24,CUST187,Customer_6,PROD35,Product_15,Apparel,Subcat1,1,145.12,145.12,UPI,Delhi
+ORD1079,2025-10-03,CUST196,Customer_12,PROD20,Product_32,Home & Kitchen,Subcat2,2,1874.69,3749.38,Debit Card,Mumbai
+ORD1080,2025-12-26,CUST128,Customer_59,PROD16,Product_17,Home & Kitchen,Subcat1,1,291.35,291.35,Credit Card,Mumbai
+ORD1081,2025-03-23,CUST115,Customer_55,PROD20,Product_28,Beauty,Subcat2,5,407.63,2038.15,UPI,Pune
+ORD1082,2025-06-27,CUST155,Customer_93,PROD3,Product_27,Electronics,Subcat3,3,631.98,1895.94,COD,Mumbai
+ORD1083,2025-06-29,CUST148,Customer_92,PROD30,Product_32,Electronics,Subcat1,3,1476.08,4428.24,COD,Mumbai
+ORD1084,2025-11-25,CUST132,Customer_29,PROD50,Product_41,Home & Kitchen,Subcat1,1,251.6,251.6,Debit Card,Hyderabad
+ORD1085,2025-05-04,CUST140,Customer_14,PROD32,Product_19,Books,Subcat2,1,1888.69,1888.69,UPI,Delhi
+ORD1086,2025-10-16,CUST157,Customer_25,PROD2,Product_44,Books,Subcat2,1,699.86,699.86,Debit Card,Hyderabad
+ORD1087,2025-03-16,CUST151,Customer_12,PROD2,Product_4,Books,Subcat1,4,1559.73,6238.92,COD,Hyderabad
+ORD1088,2025-02-09,CUST102,Customer_9,PROD36,Product_23,Books,Subcat1,1,883.02,883.02,COD,Hyderabad
+ORD1089,2025-10-30,CUST177,Customer_62,PROD31,Product_28,Books,Subcat3,5,199.85,999.25,Debit Card,Bangalore
+ORD1090,2025-06-19,CUST198,Customer_67,PROD6,Product_8,Electronics,Subcat1,4,1086.9,4347.6,Debit Card,Hyderabad
+ORD1091,2025-09-13,CUST193,Customer_21,PROD25,Product_8,Beauty,Subcat1,4,313.16,1252.64,UPI,Mumbai
+ORD1092,2025-12-11,CUST122,Customer_86,PROD2,Product_23,Electronics,Subcat3,5,674.77,3373.85,UPI,Delhi
+ORD1093,2025-06-09,CUST159,Customer_38,PROD33,Product_34,Apparel,Subcat3,1,132.12,132.12,COD,Pune
+ORD1094,2025-08-27,CUST136,Customer_29,PROD47,Product_11,Apparel,Subcat2,5,1317.18,6585.9,Credit Card,Bangalore
+ORD1095,2025-08-29,CUST142,Customer_53,PROD12,Product_27,Beauty,Subcat1,1,950.29,950.29,COD,Delhi
+ORD1096,2025-04-12,CUST186,Customer_55,PROD10,Product_16,Electronics,Subcat1,1,305.45,305.45,Debit Card,Pune
+ORD1097,2025-09-21,CUST188,Customer_53,PROD49,Product_34,Home & Kitchen,Subcat3,3,1197.26,3591.78,Debit Card,Hyderabad
+ORD1098,2025-11-03,CUST102,Customer_86,PROD44,Product_16,Books,Subcat1,5,1769.92,8849.6,Credit Card,Pune
+ORD1099,2025-12-13,CUST108,Customer_36,PROD41,Product_47,Beauty,Subcat2,3,872.48,2617.44,Debit Card,Pune
+ORD1100,2025-08-27,CUST154,Customer_26,PROD24,Product_40,Beauty,Subcat3,5,629.94,3149.7,Net Banking,Mumbai
+ORD1101,2025-03-11,CUST137,Customer_39,PROD13,Product_21,Electronics,Subcat3,2,1591.8,3183.6,Net Banking,Bangalore
+ORD1102,2025-06-03,CUST104,Customer_5,PROD25,Product_6,Apparel,Subcat2,5,906.82,4534.1,Credit Card,Delhi
+ORD1103,2025-09-27,CUST115,Customer_63,PROD21,Product_47,Home & Kitchen,Subcat2,5,803.35,4016.75,COD,Pune
+ORD1104,2025-07-01,CUST190,Customer_38,PROD20,Product_3,Electronics,Subcat1,2,1016.24,2032.48,Debit Card,Pune
+ORD1105,2025-08-06,CUST114,Customer_100,PROD27,Product_46,Books,Subcat3,1,1900.46,1900.46,UPI,Hyderabad
+ORD1106,2025-12-11,CUST148,Customer_5,PROD44,Product_46,Beauty,Subcat1,1,1172.51,1172.51,Credit Card,Mumbai
+ORD1107,2025-12-08,CUST147,Customer_58,PROD26,Product_10,Books,Subcat2,1,980.9,980.9,Debit Card,Delhi
+ORD1108,2025-07-19,CUST188,Customer_4,PROD41,Product_49,Apparel,Subcat3,1,1889.6,1889.6,Credit Card,Hyderabad
+ORD1109,2025-06-01,CUST197,Customer_82,PROD35,Product_44,Books,Subcat1,5,667.66,3338.3,COD,Delhi
+ORD1110,2025-08-18,CUST162,Customer_40,PROD49,Product_36,Beauty,Subcat3,3,393.41,1180.23,COD,Mumbai
+ORD1111,2025-06-30,CUST129,Customer_75,PROD42,Product_14,Electronics,Subcat2,4,1154.91,4619.64,Credit Card,Delhi
+ORD1112,2025-10-13,CUST185,Customer_28,PROD30,Product_10,Beauty,Subcat3,3,465.67,1397.01,UPI,Bangalore
+ORD1113,2025-11-10,CUST151,Customer_61,PROD37,Product_46,Books,Subcat2,4,1358.05,5432.2,Net Banking,Mumbai
+ORD1114,2025-06-14,CUST151,Customer_42,PROD14,Product_22,Electronics,Subcat1,5,585.58,2927.9,Debit Card,Hyderabad
+ORD1115,2025-01-07,CUST184,Customer_51,PROD28,Product_48,Apparel,Subcat1,4,541.57,2166.28,UPI,Hyderabad
+ORD1116,2025-12-03,CUST171,Customer_52,PROD21,Product_14,Home & Kitchen,Subcat2,2,127.94,255.88,UPI,Hyderabad
+ORD1117,2025-04-01,CUST149,Customer_6,PROD24,Product_40,Apparel,Subcat3,1,982.79,982.79,Net Banking,Bangalore
+ORD1118,2025-04-27,CUST143,Customer_10,PROD7,Product_39,Electronics,Subcat1,3,1940.36,5821.08,Credit Card,Delhi
+ORD1119,2025-06-21,CUST150,Customer_50,PROD24,Product_26,Home & Kitchen,Subcat2,5,1672.45,8362.25,Credit Card,Mumbai
+ORD1120,2025-01-30,CUST177,Customer_37,PROD6,Product_8,Books,Subcat2,3,971.25,2913.75,Credit Card,Mumbai
+ORD1121,2025-03-13,CUST172,Customer_40,PROD23,Product_35,Books,Subcat1,2,533.41,1066.82,Credit Card,Delhi
+ORD1122,2025-03-17,CUST146,Customer_19,PROD6,Product_14,Home & Kitchen,Subcat3,2,1332.51,2665.02,COD,Pune
+ORD1123,2025-11-28,CUST138,Customer_97,PROD50,Product_16,Home & Kitchen,Subcat1,3,416.23,1248.69,COD,Hyderabad
+ORD1124,2025-10-10,CUST157,Customer_17,PROD27,Product_40,Apparel,Subcat3,2,1993.5,3987.0,UPI,Delhi
+ORD1125,2025-12-11,CUST195,Customer_88,PROD8,Product_49,Electronics,Subcat3,4,1253.34,5013.36,Debit Card,Bangalore
+ORD1126,2025-01-12,CUST136,Customer_95,PROD8,Product_1,Apparel,Subcat3,2,708.15,1416.3,COD,Pune
+ORD1127,2025-10-07,CUST167,Customer_84,PROD27,Product_15,Apparel,Subcat1,1,1975.36,1975.36,Debit Card,Mumbai
+ORD1128,2025-04-22,CUST188,Customer_52,PROD10,Product_12,Electronics,Subcat1,3,1632.1,4896.3,Credit Card,Pune
+ORD1129,2025-03-04,CUST140,Customer_17,PROD50,Product_41,Beauty,Subcat1,3,1306.65,3919.95,UPI,Hyderabad
+ORD1130,2025-01-02,CUST197,Customer_53,PROD22,Product_26,Apparel,Subcat2,4,1687.13,6748.52,Debit Card,Bangalore
+ORD1131,2025-12-29,CUST197,Customer_79,PROD45,Product_45,Apparel,Subcat2,1,1962.58,1962.58,Net Banking,Pune
+ORD1132,2025-06-26,CUST146,Customer_85,PROD20,Product_33,Beauty,Subcat3,4,287.64,1150.56,Debit Card,Mumbai
+ORD1133,2025-09-19,CUST135,Customer_37,PROD19,Product_24,Books,Subcat3,3,570.58,1711.74,Debit Card,Delhi
+ORD1134,2025-06-15,CUST188,Customer_24,PROD22,Product_5,Books,Subcat1,5,1607.97,8039.85,Credit Card,Mumbai
+ORD1135,2025-01-21,CUST142,Customer_51,PROD42,Product_32,Beauty,Subcat3,1,1207.0,1207.0,UPI,Bangalore
+ORD1136,2025-11-07,CUST182,Customer_94,PROD31,Product_47,Home & Kitchen,Subcat2,4,1305.95,5223.8,Debit Card,Delhi
+ORD1137,2025-06-22,CUST187,Customer_47,PROD2,Product_45,Books,Subcat2,2,1806.24,3612.48,Debit Card,Hyderabad
+ORD1138,2025-12-01,CUST157,Customer_53,PROD11,Product_9,Apparel,Subcat3,4,346.05,1384.2,Debit Card,Delhi
+ORD1139,2025-05-18,CUST135,Customer_90,PROD1,Product_3,Home & Kitchen,Subcat2,2,1702.31,3404.62,Net Banking,Bangalore
+ORD1140,2025-09-12,CUST147,Customer_26,PROD40,Product_38,Books,Subcat3,4,1163.27,4653.08,Debit Card,Hyderabad
+ORD1141,2025-02-07,CUST177,Customer_64,PROD37,Product_15,Electronics,Subcat1,5,1327.07,6635.35,Net Banking,Bangalore
+ORD1142,2025-02-15,CUST153,Customer_78,PROD26,Product_29,Apparel,Subcat2,2,1944.4,3888.8,Debit Card,Hyderabad
+ORD1143,2025-08-07,CUST152,Customer_69,PROD40,Product_39,Apparel,Subcat1,1,998.4,998.4,Debit Card,Mumbai
+ORD1144,2025-03-25,CUST171,Customer_93,PROD19,Product_44,Electronics,Subcat1,2,1001.92,2003.84,Debit Card,Hyderabad
+ORD1145,2025-07-20,CUST181,Customer_58,PROD48,Product_3,Apparel,Subcat3,5,375.74,1878.7,UPI,Bangalore
+ORD1146,2025-01-21,CUST125,Customer_3,PROD30,Product_34,Books,Subcat2,1,1319.42,1319.42,COD,Pune
+ORD1147,2025-09-28,CUST181,Customer_93,PROD20,Product_32,Beauty,Subcat1,4,698.34,2793.36,UPI,Pune
+ORD1148,2025-01-29,CUST189,Customer_47,PROD10,Product_16,Home & Kitchen,Subcat2,1,586.28,586.28,Debit Card,Mumbai
+ORD1149,2025-03-01,CUST104,Customer_97,PROD2,Product_40,Electronics,Subcat1,5,151.54,757.7,COD,Hyderabad
+ORD1150,2025-11-16,CUST193,Customer_28,PROD29,Product_9,Apparel,Subcat2,2,1421.94,2843.88,COD,Bangalore
+ORD1151,2025-08-20,CUST175,Customer_63,PROD45,Product_24,Apparel,Subcat2,1,217.88,217.88,Net Banking,Bangalore
+ORD1152,2025-02-08,CUST175,Customer_16,PROD41,Product_45,Beauty,Subcat1,2,1770.15,3540.3,Net Banking,Mumbai
+ORD1153,2025-01-28,CUST117,Customer_1,PROD36,Product_41,Books,Subcat1,2,406.63,813.26,COD,Bangalore
+ORD1154,2025-05-07,CUST181,Customer_58,PROD40,Product_25,Home & Kitchen,Subcat3,2,1622.71,3245.42,COD,Pune
+ORD1155,2025-08-01,CUST108,Customer_96,PROD11,Product_37,Electronics,Subcat1,3,311.41,934.23,Debit Card,Delhi
+ORD1156,2025-12-07,CUST128,Customer_20,PROD30,Product_16,Apparel,Subcat3,2,1245.91,2491.82,COD,Bangalore
+ORD1157,2025-03-24,CUST183,Customer_55,PROD24,Product_43,Books,Subcat3,1,287.39,287.39,Debit Card,Pune
+ORD1158,2025-04-18,CUST122,Customer_81,PROD45,Product_17,Books,Subcat2,1,832.66,832.66,Credit Card,Delhi
+ORD1159,2025-11-04,CUST156,Customer_60,PROD42,Product_44,Electronics,Subcat1,2,1643.36,3286.72,Debit Card,Delhi
+ORD1160,2025-02-25,CUST118,Customer_12,PROD19,Product_5,Beauty,Subcat2,2,881.31,1762.62,COD,Bangalore
+ORD1161,2025-06-16,CUST156,Customer_77,PROD49,Product_48,Books,Subcat2,5,1842.69,9213.45,UPI,Pune
+ORD1162,2025-10-29,CUST125,Customer_82,PROD23,Product_25,Electronics,Subcat1,1,1005.23,1005.23,Credit Card,Mumbai
+ORD1163,2025-10-08,CUST169,Customer_16,PROD24,Product_6,Apparel,Subcat2,1,1500.83,1500.83,Net Banking,Bangalore
+ORD1164,2025-12-26,CUST153,Customer_11,PROD20,Product_47,Electronics,Subcat2,4,195.08,780.32,COD,Bangalore
+ORD1165,2025-09-11,CUST132,Customer_97,PROD35,Product_35,Electronics,Subcat1,2,1363.41,2726.82,UPI,Pune
+ORD1166,2025-10-12,CUST174,Customer_98,PROD42,Product_33,Home & Kitchen,Subcat3,1,1071.72,1071.72,Net Banking,Pune
+ORD1167,2025-03-28,CUST114,Customer_86,PROD25,Product_26,Apparel,Subcat2,5,1878.6,9393.0,Credit Card,Delhi
+ORD1168,2025-10-19,CUST194,Customer_11,PROD35,Product_17,Apparel,Subcat2,2,1587.84,3175.68,Credit Card,Bangalore
+ORD1169,2025-04-22,CUST103,Customer_89,PROD46,Product_33,Books,Subcat1,1,531.45,531.45,Debit Card,Hyderabad
+ORD1170,2025-03-23,CUST151,Customer_65,PROD23,Product_5,Electronics,Subcat2,5,667.02,3335.1,Debit Card,Mumbai
+ORD1171,2025-10-04,CUST127,Customer_45,PROD12,Product_7,Apparel,Subcat1,4,672.59,2690.36,Credit Card,Delhi
+ORD1172,2025-10-04,CUST154,Customer_38,PROD49,Product_2,Books,Subcat1,4,1915.96,7663.84,UPI,Hyderabad
+ORD1173,2025-04-30,CUST109,Customer_32,PROD13,Product_16,Apparel,Subcat2,2,1692.13,3384.26,Net Banking,Delhi
+ORD1174,2025-03-23,CUST188,Customer_74,PROD8,Product_17,Books,Subcat1,2,1964.27,3928.54,Net Banking,Pune
+ORD1175,2025-11-12,CUST100,Customer_3,PROD1,Product_1,Electronics,Subcat2,1,1893.57,1893.57,Credit Card,Bangalore
+ORD1176,2025-10-30,CUST116,Customer_55,PROD24,Product_8,Books,Subcat3,3,553.62,1660.86,Debit Card,Pune
+ORD1177,2025-08-14,CUST166,Customer_8,PROD40,Product_27,Books,Subcat2,1,1691.84,1691.84,Net Banking,Mumbai
+ORD1178,2025-03-30,CUST128,Customer_51,PROD17,Product_13,Apparel,Subcat3,2,1877.68,3755.36,Debit Card,Pune
+ORD1179,2025-08-04,CUST200,Customer_64,PROD10,Product_23,Electronics,Subcat2,1,1366.7,1366.7,UPI,Mumbai
+ORD1180,2025-04-25,CUST149,Customer_3,PROD29,Product_34,Beauty,Subcat3,2,1755.48,3510.96,Debit Card,Delhi
+ORD1181,2025-02-28,CUST125,Customer_69,PROD49,Product_41,Books,Subcat3,3,1255.66,3766.98,UPI,Delhi
+ORD1182,2025-10-06,CUST186,Customer_60,PROD23,Product_21,Beauty,Subcat2,4,288.83,1155.32,UPI,Mumbai
+ORD1183,2025-10-05,CUST151,Customer_74,PROD40,Product_24,Books,Subcat3,2,586.12,1172.24,Credit Card,Mumbai
+ORD1184,2025-10-20,CUST186,Customer_51,PROD16,Product_17,Electronics,Subcat1,2,1370.06,2740.12,COD,Pune
+ORD1185,2025-02-25,CUST161,Customer_48,PROD47,Product_22,Apparel,Subcat2,2,690.62,1381.24,Net Banking,Mumbai
+ORD1186,2025-02-09,CUST196,Customer_41,PROD10,Product_45,Electronics,Subcat1,5,1248.62,6243.1,Debit Card,Mumbai
+ORD1187,2025-01-17,CUST169,Customer_16,PROD28,Product_34,Home & Kitchen,Subcat3,1,1916.8,1916.8,Net Banking,Hyderabad
+ORD1188,2025-12-01,CUST146,Customer_18,PROD17,Product_22,Electronics,Subcat3,1,533.87,533.87,COD,Hyderabad
+ORD1189,2025-07-02,CUST137,Customer_10,PROD49,Product_27,Electronics,Subcat2,5,1661.82,8309.1,UPI,Delhi
+ORD1190,2025-09-13,CUST106,Customer_43,PROD34,Product_27,Electronics,Subcat3,3,1330.04,3990.12,Net Banking,Hyderabad
+ORD1191,2025-02-13,CUST182,Customer_64,PROD1,Product_40,Beauty,Subcat1,3,872.71,2618.13,COD,Delhi
+ORD1192,2025-12-11,CUST117,Customer_29,PROD32,Product_13,Books,Subcat1,4,629.83,2519.32,Net Banking,Pune
+ORD1193,2025-12-19,CUST192,Customer_69,PROD29,Product_12,Apparel,Subcat1,3,1926.56,5779.68,Net Banking,Bangalore
+ORD1194,2025-02-21,CUST182,Customer_72,PROD29,Product_46,Home & Kitchen,Subcat2,1,1300.67,1300.67,Credit Card,Mumbai
+ORD1195,2025-03-01,CUST177,Customer_67,PROD22,Product_32,Beauty,Subcat3,2,1479.48,2958.96,Debit Card,Bangalore
+ORD1196,2025-06-21,CUST107,Customer_68,PROD44,Product_9,Beauty,Subcat2,5,108.42,542.1,UPI,Hyderabad
+ORD1197,2025-09-30,CUST158,Customer_27,PROD45,Product_13,Books,Subcat1,2,105.79,211.58,Net Banking,Mumbai
+ORD1198,2025-04-15,CUST139,Customer_45,PROD26,Product_29,Beauty,Subcat3,4,1900.58,7602.32,Debit Card,Delhi
+ORD1199,2025-11-30,CUST101,Customer_97,PROD32,Product_50,Beauty,Subcat1,2,1202.69,2405.38,UPI,Mumbai
