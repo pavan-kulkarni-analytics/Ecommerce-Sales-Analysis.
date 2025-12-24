@@ -1,2 +1,9 @@
-# Ecommerce-Sales-Analysis.
-Data analysis project for e-commerce sales using Python
+# Ecommerce Sales Analysis
+
+Open `Ecommerce_Sales_Analysis.ipynb` to see:
+- Code
+- Analysis
+- Plots
+- Insights
+
+Dataset: `ecommerce_sales_sample.csv`
